@@ -9,7 +9,7 @@ Vim is the best
 <!-- badges start -->
 [![Static Badge](https://img.shields.io/badge/linkedin-%2300008B)](https://www.linkedin.com/in/barbarazpc/)
 [![Static Badge](https://img.shields.io/badge/Mastodon-8A2BE2)](https://fosstodon.org/@zpcbarbara)
-![Twitter Follow](https://img.shields.io/twitter/follow/zpcbarbara)
+[![Twitter Follow](https://img.shields.io/twitter/follow/zpcbarbara)](https://twitter.com/intent/follow?screen_name=zpcbarbara)
 <!-- bades end -->
 
 My open source software contributions:
