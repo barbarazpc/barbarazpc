@@ -1,6 +1,6 @@
 ### Hiiii there 😁
 
-Im Bárbara, a PhD student [@SaezLab](https://github.com/saezlab) in Heidelberg 🧬💻
+Im Bárbara, a PhD student [@SaezLab](https://github.com/saezlab) in Heidelberg, Germany 🧬💻
 
 I want to cure cancer lol
 
