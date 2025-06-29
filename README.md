@@ -11,7 +11,6 @@ My open source software contributions:
 
 <!-- badges start -->
 [![Linkedin: barbarazpc](https://img.shields.io/badge/-barbarazpc-blue?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/barbarazpc/)](https://www.linkedin.com/in/barbarazpc/)
-[![Static Badge](https://img.shields.io/badge/Mastodon-8A2BE2)](https://fosstodon.org/@zpcbarbara)
 <!-- bades end -->
 
 <!--
